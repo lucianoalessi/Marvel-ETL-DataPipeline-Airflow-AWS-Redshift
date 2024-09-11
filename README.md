@@ -1,4 +1,4 @@
-# Marvel ETL Data Pipeline with Airflow
+# Marvel ETL Data Pipeline with Airflow & Redshift
 
 ![alt text](images/marvel.png)
 
