@@ -102,7 +102,7 @@ A Jupyter notebook that allows the ETL pipeline to be run locally, ideal for tes
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/marvel-etl-project.git
+git clone https://github.com/lucianoalessi/marvel-etl-data-pipeline-airflow
 cd marvel-etl-project
 ```
 
