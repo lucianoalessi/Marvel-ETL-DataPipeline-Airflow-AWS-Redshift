@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+.env
+
+# Logs
+logs/
+
+# Data and Volumes
+# datalake/
+
+#venv
+venv/
